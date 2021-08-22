@@ -1,6 +1,6 @@
-# flute
+# Xylophone
 
-A new Flutter application.
+A simple music app that lets you play xylophone sounds  
 
 ## Getting Started
 
